@@ -1,11 +1,11 @@
 ### Hello World, I'm Keegan! Nice to meet you! 👋
 
-⛓ My links
+### ⛓ My links
 - [GitHub](https://github.com/viakeegan 'GitHub')
 - [LinkedIn](https://www.linkedin.com/in/keeganjervis/ 'LinkedIn')
 - [Portfolio](https://viakeegan.github.io/ 'Resume')
 
-✉️ Get in contact with me 
+### ✉️ Get in contact with me 
 - [Email](mailto:viakeegan@gmail.com 'Email')
 - [Discord](https://discord.gg/SbXuAbMb 'Discord') keesparc#9395
 - [Twitter](https://twitter.com/keesparc 'Twitter')
