@@ -1,4 +1,4 @@
-### Hello World, I'm Keegan! Nice to meet you! 👋
+## Hello World, I'm Keegan! Nice to meet you! 👋
 
 ### ⛓ My links
 - [GitHub](https://github.com/viakeegan 'GitHub')
