@@ -1,4 +1,12 @@
-### Hello World 👋
+### Hello World, I'm Keegan! Nice to meet you! 👋
+
+⛓ My links
+- [GitHub](https://github.com/viakeegan 'GitHub')
+- [LinkedIn](https://www.linkedin.com/in/keeganjervis/ 'LinkedIn')
+- [Portfolio](https://viakeegan.github.io/ 'Resume')
+
+✉️ Get in contact with me 
+- [Email](mailto:viakeegan@gmail.com 'Email')
 
 <!--
 **viakeegan/viakeegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
