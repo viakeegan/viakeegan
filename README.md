@@ -7,7 +7,8 @@
 
 ✉️ Get in contact with me 
 - [Email](mailto:viakeegan@gmail.com 'Email')
-- [Discord](https://discord.com/channels/@me 'Discord') keesparc#9395
+- [Discord](https://discord.gg/SbXuAbMb 'Discord') keesparc#9395
+- [Twitter](https://twitter.com/keesparc 'Twitter')
 
 <!--
 **viakeegan/viakeegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
